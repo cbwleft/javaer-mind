@@ -19,9 +19,9 @@ Java程序员进阶学习的思维导图，使用百度脑图工具整理，请�
 * [领域驱动设计](http://naotu.baidu.com/file/d7bb1a3e066c2fae7bcf756daa78e9d7?token=cb9ca20178d7c914)
 
 ## 参考资料
-* [《深入理解Java虚拟机（第2版）》](https://book.douban.com/subject/24722612/)
+* [《深入理解Java虚拟机:JVM高级特性与最佳实践（第2版）》](https://book.douban.com/subject/24722612/)
 * [《HotSpot Virtual Machine Garbage Collection Tuning Guide》](https://docs.oracle.com/javase/8/docs/technotes/guides/vm/gctuning/toc.html)
 * [《Spring揭秘》](https://book.douban.com/subject/3897837/)
-* [《MySQL技术内幕:InnoDB存储引擎(第2版)》](https://book.douban.com/subject/24708143/)
-* [《高性能mysql(第3版)》](https://book.douban.com/subject/23008813/)
+* [《MySQL技术内幕:InnoDB存储引擎（第2版）》](https://book.douban.com/subject/24708143/)
+* [《高性能mysql（第3版）》](https://book.douban.com/subject/23008813/)
 * [《实现领域驱动设计》](https://book.douban.com/subject/25844633/)

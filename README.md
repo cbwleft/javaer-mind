@@ -2,7 +2,7 @@
 Java程序员进阶学习的思维导图，使用百度脑图工具整理，请使用Chrome浏览器查看。
 
 ### JAVA相关
-* [JVM内存区域与GC](http://naotu.baidu.com/file/fae825b94449db970a50430fcd76c213?token=d4f8fc7b86c2827e)
+* [Java内存区域与GC](http://naotu.baidu.com/file/fae825b94449db970a50430fcd76c213?token=d4f8fc7b86c2827e)
 
 ### 框架原理
 * [Spring揭秘](http://naotu.baidu.com/file/43dc596d801c9b54283393fdb918c6ea?token=d7370d36e7b42de1)
@@ -17,3 +17,10 @@ Java程序员进阶学习的思维导图，使用百度脑图工具整理，请�
 
 ### 设计模式
 * [领域驱动设计](http://naotu.baidu.com/file/d7bb1a3e066c2fae7bcf756daa78e9d7?token=cb9ca20178d7c914)
+
+## 参考资料
+* [《深入理解Java虚拟机（第2版）》](https://book.douban.com/subject/24722612/)
+* [《HotSpot Virtual Machine Garbage Collection Tuning Guide》](https://docs.oracle.com/javase/8/docs/technotes/guides/vm/gctuning/toc.html)
+* [《Spring揭秘》](https://book.douban.com/subject/3897837/)
+* [《MySQL技术内幕:InnoDB存储引擎(第2版)》](https://book.douban.com/subject/24708143/)
+* [《实现领域驱动设计》](https://book.douban.com/subject/25844633/)

@@ -23,4 +23,5 @@ Java程序员进阶学习的思维导图，使用百度脑图工具整理，请�
 * [《HotSpot Virtual Machine Garbage Collection Tuning Guide》](https://docs.oracle.com/javase/8/docs/technotes/guides/vm/gctuning/toc.html)
 * [《Spring揭秘》](https://book.douban.com/subject/3897837/)
 * [《MySQL技术内幕:InnoDB存储引擎(第2版)》](https://book.douban.com/subject/24708143/)
+* [《高性能mysql(第3版)》](https://book.douban.com/subject/23008813/)
 * [《实现领域驱动设计》](https://book.douban.com/subject/25844633/)

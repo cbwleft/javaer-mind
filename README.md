@@ -3,6 +3,7 @@ Java程序员进阶学习的思维导图，使用百度脑图工具整理，请�
 
 ### JAVA相关
 * [Java内存区域与GC](http://naotu.baidu.com/file/fae825b94449db970a50430fcd76c213?token=d4f8fc7b86c2827e)
+* [Java并发编程](http://naotu.baidu.com/file/a93fa3d0c4b651e598524a98b3094011?token=1312dab45d7a76fb)
 
 ### 框架原理
 * [Spring揭秘](http://naotu.baidu.com/file/43dc596d801c9b54283393fdb918c6ea?token=d7370d36e7b42de1)
@@ -22,11 +23,13 @@ Java程序员进阶学习的思维导图，使用百度脑图工具整理，请�
 
 ## 参考资料
 * [《深入理解Java虚拟机:JVM高级特性与最佳实践（第2版）》](https://book.douban.com/subject/24722612/)
+* [《Java并发编程实战》](https://book.douban.com/subject/10484692/)
 * [《Spring揭秘》](https://book.douban.com/subject/3897837/)
 * [《MySQL技术内幕:InnoDB存储引擎（第2版）》](https://book.douban.com/subject/24708143/)
 * [《高性能mysql（第3版）》](https://book.douban.com/subject/23008813/)
 * [《设计模式之禅（第2版）》](https://book.douban.com/subject/25843319/)
 * [《实现领域驱动设计》](https://book.douban.com/subject/25844633/)
 * [HotSpot Virtual Machine Garbage Collection Tuning Guide](https://docs.oracle.com/javase/8/docs/technotes/guides/vm/gctuning/toc.html)
+* [Distributed transactions in Spring, with and without XA](https://www.javaworld.com/article/2077963/open-source-tools/distributed-transactions-in-spring--with-and-without-xa.html)
 * [Examples of GoF Design Patterns in Java's core libraries
 ](https://stackoverflow.com/questions/1673841/examples-of-gof-design-patterns-in-javas-core-libraries)

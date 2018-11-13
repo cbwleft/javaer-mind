@@ -1,7 +1,7 @@
 # javaer-mind
 Java 程序员进阶学习的思维导图，使用百度脑图工具整理，为了观看体验请使用 Chrome 浏览器打开。
 
-### JAVA相关
+### Java 相关
 * [Java 内存区域与 GC](http://naotu.baidu.com/file/fae825b94449db970a50430fcd76c213?token=d4f8fc7b86c2827e)
 * [Java 并发编程](http://naotu.baidu.com/file/a93fa3d0c4b651e598524a98b3094011?token=1312dab45d7a76fb)
 

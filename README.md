@@ -1,5 +1,5 @@
 # javaer-mind
-Java程序员进阶学习的思维导图，使用百度脑图工具整理，请使用Chrome浏览器查看。
+Java 程序员进阶学习的思维导图，使用百度脑图工具整理，为了观看体验请使用 Chrome 浏览器打开。
 
 ### JAVA相关
 * [Java 内存区域与 GC](http://naotu.baidu.com/file/fae825b94449db970a50430fcd76c213?token=d4f8fc7b86c2827e)

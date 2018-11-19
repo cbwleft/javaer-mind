@@ -19,6 +19,7 @@ Java 程序员进阶学习的思维导图，使用百度脑图工具整理，为
 
 ### 大数据时代
 * [Hadoop](http://naotu.baidu.com/file/023db7b09d3a6e9ff7d7578d7036b6eb?token=335390074aa6e446)
+* [HBase](http://naotu.baidu.com/file/37ab7a476a677cc720c5c22c4639dc57?token=ec35bf58ed0eff60)
 
 ### 设计模式
 * [GoF 23 种设计模式](http://naotu.baidu.com/file/a5395ba52f664f00d4ad8ab4a4f57ff1?token=9c9e080c27b7c713)

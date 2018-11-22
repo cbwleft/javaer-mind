@@ -1,5 +1,5 @@
 # javaer-mind
-Java 程序员进阶学习的思维导图，使用百度脑图工具整理，为了观看体验请使用 Chrome 浏览器打开。
+整理这个思维导图主要是作为自己学习知识点的总结，参考资料以业内经典技术书籍为主，官方文档为辅。希望这些思维导图能够帮助大家实现知识查漏补缺、提供学习思路和方向。为了观看体验，请尽量使用 Chrome 浏览器打开。
 
 ### Java 相关
 * [Java 内存区域与 GC](http://naotu.baidu.com/file/fae825b94449db970a50430fcd76c213?token=d4f8fc7b86c2827e)
@@ -16,6 +16,7 @@ Java 程序员进阶学习的思维导图，使用百度脑图工具整理，为
 * [分库分表](http://naotu.baidu.com/file/dc903b447e6227d34334979336f23d27?token=21bafb7ab2f98d39)
 * [分布式任务](http://naotu.baidu.com/file/1db4b11512da78ae60cfafe13fd2ddb1?token=f40ac5234a93a226)
 * [分布式事务](http://naotu.baidu.com/file/f4de6b17416395f08c8cf4c52db288c9?token=b09fbc7690267a7b)
+* [分布式协调服务](http://naotu.baidu.com/file/9912ce681db508b8ebf4ea50a85cb8f1?token=86b30b97b451c7b2)
 
 ### 大数据时代
 * [Hadoop](http://naotu.baidu.com/file/023db7b09d3a6e9ff7d7578d7036b6eb?token=335390074aa6e446)
@@ -31,6 +32,7 @@ Java 程序员进阶学习的思维导图，使用百度脑图工具整理，为
 * [《Spring 揭秘》](https://book.douban.com/subject/3897837/)
 * [《MySQL 技术内幕：InnoDB 存储引擎》](https://book.douban.com/subject/24708143/)
 * [《高性能 MySQL》](https://book.douban.com/subject/23008813/)
+* [《Paxos 到 Zookeeper：分布式一致性原理与实践》](https://book.douban.com/subject/26292004/)
 * [《设计模式之禅》](https://book.douban.com/subject/25843319/)
 * [《实现领域驱动设计》](https://book.douban.com/subject/25844633/)
 * [HotSpot Virtual Machine Garbage Collection Tuning Guide](https://docs.oracle.com/javase/8/docs/technotes/guides/vm/gctuning/toc.html)

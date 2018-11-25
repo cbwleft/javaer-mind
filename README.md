@@ -10,7 +10,7 @@
 
 ### 数据库技术
 * [MySQL InnoDB 存储引擎](http://naotu.baidu.com/file/49da4543e0dc432431bdfb813e5c478c?token=6115f8761d20d94d)
-* [Redis 键值数据库](http://naotu.baidu.com/file/53b205d09f2402f8c68331080002f201?token=41ff4b0d95ed3086)
+* [Redis key-value 数据库](http://naotu.baidu.com/file/53b205d09f2402f8c68331080002f201?token=41ff4b0d95ed3086)
 * [ElasticSearch 搜索引擎](http://naotu.baidu.com/file/3b7f1dec1a487abf6ffe51f1a950744b?token=e08546f6ca1fa320)
 
 ### 分布式架构
@@ -39,5 +39,7 @@
 * [《实现领域驱动设计》](https://book.douban.com/subject/25844633/)
 * [HotSpot Virtual Machine Garbage Collection Tuning Guide](https://docs.oracle.com/javase/8/docs/technotes/guides/vm/gctuning/toc.html)
 * [Distributed transactions in Spring, with and without XA](https://www.javaworld.com/article/2077963/open-source-tools/distributed-transactions-in-spring--with-and-without-xa.html)
+* [Paxos Made Simple](http://dsdoc.net/paxosmadesimple/index.html)
+* [Raft: Understandable Distributed Consensus](http://thesecretlivesofdata.com/raft)
 * [Examples of GoF Design Patterns in Java's core libraries
 ](https://stackoverflow.com/questions/1673841/examples-of-gof-design-patterns-in-javas-core-libraries)

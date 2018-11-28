@@ -11,6 +11,7 @@
 ### 数据库技术
 * [MySQL InnoDB 存储引擎](http://naotu.baidu.com/file/49da4543e0dc432431bdfb813e5c478c?token=6115f8761d20d94d)
 * [Redis key-value 数据库](http://naotu.baidu.com/file/53b205d09f2402f8c68331080002f201?token=41ff4b0d95ed3086)
+* [MongoDB 文档数据库](http://naotu.baidu.com/file/87f601d7a3657ca74ccd0e9c84d8e5be?token=04c228086c901296)
 * [ElasticSearch 搜索引擎](http://naotu.baidu.com/file/3b7f1dec1a487abf6ffe51f1a950744b?token=e08546f6ca1fa320)
 
 ### 分布式架构
@@ -34,6 +35,7 @@
 * [《MySQL 技术内幕：InnoDB 存储引擎》](https://book.douban.com/subject/24708143/)
 * [《高性能 MySQL》](https://book.douban.com/subject/23008813/)
 * [《Redis 开发与运维》](https://book.douban.com/subject/26971561/)
+* [《MongoDB 权威指南》](https://book.douban.com/subject/25798102/)
 * [《Paxos 到 Zookeeper：分布式一致性原理与实践》](https://book.douban.com/subject/26292004/)
 * [《设计模式之禅》](https://book.douban.com/subject/25843319/)
 * [《实现领域驱动设计》](https://book.douban.com/subject/25844633/)

@@ -4,6 +4,7 @@
 ### Java 相关
 * [Java 内存区域与 GC](http://naotu.baidu.com/file/fae825b94449db970a50430fcd76c213?token=d4f8fc7b86c2827e)
 * [Java 并发编程](http://naotu.baidu.com/file/a93fa3d0c4b651e598524a98b3094011?token=1312dab45d7a76fb)
+* [Java 函数式编程](http://naotu.baidu.com/file/62cce50a2c118a0d47f3a6d899d187e8?token=f44b0a6c3d619ddf)
 
 ### 框架原理
 * [Spring 揭秘](http://naotu.baidu.com/file/43dc596d801c9b54283393fdb918c6ea?token=d7370d36e7b42de1)
@@ -32,6 +33,8 @@
 ## 参考资料
 * [《深入理解 Java 虚拟机：JVM 高级特性与最佳实践》](https://book.douban.com/subject/24722612/)
 * [《Java 并发编程实战》](https://book.douban.com/subject/10484692/)
+* [《Java 8 实战》](https://book.douban.com/subject/26772632/)
+* [《Effective Java》](https://book.douban.com/subject/30262030/)
 * [《Spring 揭秘》](https://book.douban.com/subject/3897837/)
 * [《MySQL 技术内幕：InnoDB 存储引擎》](https://book.douban.com/subject/24708143/)
 * [《高性能 MySQL》](https://book.douban.com/subject/23008813/)

@@ -25,6 +25,7 @@
 * [Hadoop](http://naotu.baidu.com/file/023db7b09d3a6e9ff7d7578d7036b6eb?token=335390074aa6e446)
 * [HBase](http://naotu.baidu.com/file/37ab7a476a677cc720c5c22c4639dc57?token=ec35bf58ed0eff60)
 * [Kafka](http://naotu.baidu.com/file/9f819f68a114804bcc602a33229d00c6?token=3fd906b1be62a10a)
+* [Spark](http://naotu.baidu.com/file/b4ead64e997b8663b9a6fa5624344d9e?token=e7c5974f98641691)
 
 ### 设计模式
 * [GoF 23 种设计模式](http://naotu.baidu.com/file/a5395ba52f664f00d4ad8ab4a4f57ff1?token=9c9e080c27b7c713)

@@ -48,5 +48,4 @@
 * [Distributed transactions in Spring, with and without XA](https://www.javaworld.com/article/2077963/open-source-tools/distributed-transactions-in-spring--with-and-without-xa.html)
 * [Paxos Made Simple](http://dsdoc.net/paxosmadesimple/index.html)
 * [Raft: Understandable Distributed Consensus](http://thesecretlivesofdata.com/raft)
-* [Examples of GoF Design Patterns in Java's core libraries
-](https://stackoverflow.com/questions/1673841/examples-of-gof-design-patterns-in-javas-core-libraries)
+* [Examples of GoF Design Patterns in Java's core libraries](https://stackoverflow.com/questions/1673841/examples-of-gof-design-patterns-in-javas-core-libraries)

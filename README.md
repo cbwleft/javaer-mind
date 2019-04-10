@@ -23,6 +23,7 @@
 
 ### 大数据时代
 * [Hadoop](http://naotu.baidu.com/file/023db7b09d3a6e9ff7d7578d7036b6eb?token=335390074aa6e446)
+* [Hive](http://naotu.baidu.com/file/e2d0cba3498617740e0d5c3964021b9c?token=9ddb05f61593aa61)
 * [HBase](http://naotu.baidu.com/file/37ab7a476a677cc720c5c22c4639dc57?token=ec35bf58ed0eff60)
 * [Kafka](http://naotu.baidu.com/file/9f819f68a114804bcc602a33229d00c6?token=3fd906b1be62a10a)
 * [Spark](http://naotu.baidu.com/file/b4ead64e997b8663b9a6fa5624344d9e?token=e7c5974f98641691)

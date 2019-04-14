@@ -7,7 +7,8 @@
 * [Java 函数式编程](http://naotu.baidu.com/file/62cce50a2c118a0d47f3a6d899d187e8?token=f44b0a6c3d619ddf)
 
 ### 框架原理
-* [Spring 揭秘](http://naotu.baidu.com/file/43dc596d801c9b54283393fdb918c6ea?token=d7370d36e7b42de1)
+* [Spring](http://naotu.baidu.com/file/43dc596d801c9b54283393fdb918c6ea?token=d7370d36e7b42de1)
+* [MyBatis](http://naotu.baidu.com/file/5c5f9aa2dc82102fdae129098a225380?token=458efc6bad884132)
 
 ### 数据库技术
 * [MySQL InnoDB 存储引擎](http://naotu.baidu.com/file/49da4543e0dc432431bdfb813e5c478c?token=6115f8761d20d94d)

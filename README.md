@@ -44,6 +44,7 @@
 * [《Redis 开发与运维》](https://book.douban.com/subject/26971561/)
 * [《MongoDB 权威指南》](https://book.douban.com/subject/25798102/)
 * [《Paxos 到 Zookeeper：分布式一致性原理与实践》](https://book.douban.com/subject/26292004/)
+* [《大数据技术体系详解：原理、架构与实践》](https://book.douban.com/subject/30213139/)
 * [《设计模式之禅》](https://book.douban.com/subject/25843319/)
 * [《实现领域驱动设计》](https://book.douban.com/subject/25844633/)
 * [HotSpot Virtual Machine Garbage Collection Tuning Guide](https://docs.oracle.com/javase/8/docs/technotes/guides/vm/gctuning/toc.html)
